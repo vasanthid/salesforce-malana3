@@ -1,0 +1,17 @@
+.new-post {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.label {
+    font-size: 1rem;
+    margin-right: 10px;
+}
+
+.form-item {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}

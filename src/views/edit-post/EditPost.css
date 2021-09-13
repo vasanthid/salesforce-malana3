@@ -1,0 +1,39 @@
+.edit-post {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.label {
+    font-size: 1rem;
+    margin-right: 10px;
+}
+
+.form-item {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+
+.container{
+    margin: 50px 200px;
+}
+.edit-post-view .title-info h4 {
+    font-size: 1.5rem;
+  }
+  
+  .edit-post-view .title-info span {
+      font-size: 1.2rem;
+    }
+
+    .edit-post-view  p {
+        font-size: 1rem;
+      }
+
+    .actions-container {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
